@@ -3,7 +3,7 @@
 Electric power systems are currently undergoing significant changes. To enable modern power grids to operate safely, reliably, and efficiently in this new paradigm, new numerical methods that integrate optimization and machine learning are needed.
 
 ## About us!
-LORER is a research group at Polytechnique Montréal, Canada working on the design of mathematical methods using a blend of optimization and machine learning for decision-making in renewable energy systems. 
+LORER is a research group at Polytechnique Montréal, Canada working on the design of mathematical methods using a blend of optimization and machine learning for decision-making in renewable energy systems. It is led by Prof. Antoine Lesage-Landry.
 
 The research group is affiliated with the international research centers GERAD and Mila, which focus on operations research and artificial intelligence, respectively.
 
